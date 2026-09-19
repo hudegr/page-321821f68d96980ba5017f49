@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "8ab0b2f28f508a4529cb0175",
+  "owner": "hudegr",
+  "repo": "page-321821f68d96980ba5017f49",
+  "title": "clash verge下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "321821f68d96980ba5017f49",
+      "a": "白月光",
+      "b": "clash verge下载",
+      "entity": "白月光",
+      "brand": "clash verge下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fba8a1b5c5f4253b30098b602bcc9fa88269a4c73112751d429b31ad0fe3d2e8",
+      "content": {
+        "primary_entity": "白月光",
+        "keyword1": "白月光",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，参考对应文档配置白月光订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定白月光套餐，配置订阅开启加速。",
+          "AI_CLOSING_TITLE": "选套餐配订阅",
+          "AI_DESCRIPTION": "，白月光提供基础版、旗舰版与团队版三档套餐，基础版每月15元含100GB流量与3台设备，旗舰版每月35元含300GB流量、5台设备及IPLC专线游戏加速，团队版每月85元含1000GB流量与20台设备。年付方案更划算，基础版年付150元、旗舰版年付350元、团队版年付850元。按设备系统选择客户端并导入订阅即可使用，节点池与设备上限因套餐而异。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度了解白月光套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按月流量需求对应选择。",
+          "AI_FEATURE_TEXT_2": "可同时在线设备数为3台、5台与20台，按人数与终端数量决定档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付150元、旗舰版350元、团队版850元。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备上限",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成白月光选择与配置，按设备文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "白月光提供基础版、旗舰版与团队版三档加速套餐，覆盖百GB至千GB月流量与多设备在线需求，旗舰版配备IPLC专线游戏加速优化，团队版支持企业定制路由。按设备系统选择客户端并导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "三档套餐按需选择",
+          "AI_HIGHLIGHT_1": "100GB至1000GB月流量可选",
+          "AI_HIGHLIGHT_2": "3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案价格更省",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按月流量与在线设备数量，从基础版、旗舰版、团队版中选定档位。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与并发数量，对照套餐的设备上限与节点权益。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅文档导入白月光节点，完成配置后开启加速。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "白月光套餐与订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、每月流量需求在 100GB 以内的用户。它支持基础流媒体解锁，使用普通线路节点池。如果主要在家用或单人移动办公，且不需要专线游戏加速，基础版即可满足日常浏览、视频与办公需求。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，每月 300GB 流量，包含全节点原生流媒体解锁与 IPLC 专线游戏加速优化。如果有多设备切换、高清流媒体或游戏低延迟需求，旗舰版比基础版更合适，还提供 7x24 优先工单支持。",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务。适合小型团队或家庭多设备重度使用，能减少多账号管理的麻烦。",
+          "AI_FAQ_ANSWER_4": "可以按年付方式订阅，三个套餐均提供年付价格。基础版按年付 ¥150/年，旗舰版按年付 ¥350/年，团队版按年付 ¥850/年。长期使用选择年付比月付更划算，订阅周期越长，平均每月成本越低。",
+          "AI_FAQ_ANSWER_5": "建议先数一数常用设备数量，再看每月大约消耗多少流量。3 台以内且流量低于 100GB 选基础版；需要流媒体和游戏优化选旗舰版；设备超过 5 台或流量接近 1000GB 选团队版。也可以先选低档套餐，后续按需升级。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_3": "团队版支持多少设备同时在线？",
+          "AI_FAQ_QUESTION_4": "白月光的套餐可以按年付吗？",
+          "AI_FAQ_QUESTION_5": "如何判断自己该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "15ffb198ea45e19c0c29265e36a1aca5ac775a06bf36fdb304d4acc68edd24cc",
+    "sitemap.xml": "73f173d9c6219c80d16bdfd50631dd3145a1edf98770876b7c12010fde5e4519",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a3fe5a72b3d78aa02cef8f269833efebcec728cf059402d7a2902c8a3fc81d33"
+}
